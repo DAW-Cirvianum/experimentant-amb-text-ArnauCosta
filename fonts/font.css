@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Unlock';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Unlock-Regular.eot'); /* IE9 */
+  src: url('../fonts/Unlock-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Unlock-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Unlock-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Unlock-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Unlock-Regular.svg#Unlock') format('svg'); /* Legacy iOS */
+}
